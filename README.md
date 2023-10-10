@@ -1,6 +1,6 @@
-![MasterHead](https://img-s3.onedio.com/id-5478637d1551fc3b389ef298/rev-0/w-600/h-222/f-jpg/s-de3a7a916c912b1aaa528a7ec34c1d587b5e46be.jpg)
+
 <h1 align="center">Hi 👋, I'm Alp</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
